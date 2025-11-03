@@ -222,6 +222,7 @@
 
 - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
 - [FastAPI-Dishka-FastStream](https://github.com/faststream-community/fastapi-dishka-faststream) - Combines FastAPI, dishka, faststream, sqlalchemy, pydantic.
+- [FastAPI Clean Example](https://github.com/ivan-borovets/fastapi-clean-example) - Clean Architecture backend example built with FastAPI.
 
 ## Hosting
 
